@@ -1,0 +1,11 @@
+MSMQMessagEXEPath=C:/Testing/msmqmng/msmqmng.exe
+AgentName=avigilonagent
+DataBaseServer=localhost
+DataBaseName=SAFE
+DataBaseUserName=sa
+DataBasePassword=database123
+XMLFolderPath=C:/Testing/Output
+XMLFolderAfterProcessed=C:/Testing/Processed
+TestOutputFile=C:/Testing/TestOutFile.txt
+AgentWaitTime=3000
+DoYouWantToPurgePreviousMessagesInTheAgentQueues=No

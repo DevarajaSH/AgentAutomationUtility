@@ -1,0 +1,239 @@
+I 2016-10-19 10:18:13:006 server.cc(86) Starting WebDriver server on port: '37136' on host: ''
+I 2016-10-19 10:18:13:008 IEServer.cpp(32) Driver version: 2.53.1.0 (32-bit)
+I 2016-10-19 10:18:17:105 IECommandExecutor.cpp(678) Persistent hovering set to: 1
+I 2016-10-19 10:18:17:175 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-10-19 10:18:18:291 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-10-19 10:18:18:412 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:18:18:461 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+W 2016-10-19 10:18:18:553 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+W 2016-10-19 10:18:18:575 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+I 2016-10-19 10:18:18:818 c:\projects\webdriver\cpp\iedriver\CommandHandlers/SendKeysCommandHandler.h(343) Focus is on a UI element other than the HTML viewer pane.
+I 2016-10-19 10:18:21:939 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-10-19 10:18:22:043 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:18:22:072 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+W 2016-10-19 10:18:22:149 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+W 2016-10-19 10:18:22:168 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+I 2016-10-19 10:18:25:448 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-10-19 10:18:25:555 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:18:25:580 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+W 2016-10-19 10:18:25:727 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+W 2016-10-19 10:18:25:746 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+W 2016-10-19 10:18:25:826 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+W 2016-10-19 10:18:25:835 InteractionsManager.cpp(1051) From X appears to be < 0. Rounding to 0. -1
+W 2016-10-19 10:18:25:835 InteractionsManager.cpp(1055) From Y appears to be < 0. Rounding to 0. -1
+I 2016-10-19 10:18:32:555 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-10-19 10:18:32:679 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:18:32:720 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-10-19 10:18:32:878 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:18:34:554 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-10-19 10:18:34:650 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:18:34:687 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-10-19 10:18:37:834 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:18:52:147 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:12:106 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:12:207 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:12:355 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:12:457 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:13:163 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:13:557 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:14:398 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:15:212 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:15:731 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:16:156 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:19:898 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:20:676 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:20:772 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:20:904 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:21:003 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:25:271 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:25:377 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:25:510 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:25:597 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:31:785 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:19:35:405 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:05:123 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:05:929 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:06:747 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:06:855 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:06:987 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:07:095 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:07:401 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:08:113 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:11:867 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:39:579 Alert.cpp(48) OK button does not exist on dialog; looking for Cancel button
+I 2016-10-19 10:20:46:473 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:47:329 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:692 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:803 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:810 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:816 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:821 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:827 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:834 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:840 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:848 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:853 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:858 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:864 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:868 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:873 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:878 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:884 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:891 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:898 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:903 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:907 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:911 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:915 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:919 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:923 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:929 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:934 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:940 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:947 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:952 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:959 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:966 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:972 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:978 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:984 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:991 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:20:59:997 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:002 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:009 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:015 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:021 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:028 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:034 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:040 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:047 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:052 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:058 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:064 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:070 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:077 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:083 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:087 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:092 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:098 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:102 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:109 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:114 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:119 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:124 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:128 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:132 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:136 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:142 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:146 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:151 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:157 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:162 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:167 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:173 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:178 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:185 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:192 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:198 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:205 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:211 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:217 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:223 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:230 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:235 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:241 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:247 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:252 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:258 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:266 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:271 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:278 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:282 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:287 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:293 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:298 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:303 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:310 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:316 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:322 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:328 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:334 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:340 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:345 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:351 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:357 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:363 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:369 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:376 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:382 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:387 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:394 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:400 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:407 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:413 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:419 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:425 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:431 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:436 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:440 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:446 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:452 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:457 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:463 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:467 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:472 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:477 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:482 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:486 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:491 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:496 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:502 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:509 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:515 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:521 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:527 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:533 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:539 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:546 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:552 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:557 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:563 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:568 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:573 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:578 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:583 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:587 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:593 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:598 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:603 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:609 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:613 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:618 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:624 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:632 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:637 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:643 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:650 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:656 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:662 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:668 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:674 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:679 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:685 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:843 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:848 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:854 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:861 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:867 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:873 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:880 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:885 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:892 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:898 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:903 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:909 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:915 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:921 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:00:926 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:01:288 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-10-19 10:21:02:525 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement

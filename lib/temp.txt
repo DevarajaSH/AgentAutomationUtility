@@ -1,0 +1,317 @@
+I 2016-09-17 16:46:18:797 server.cc(86) Starting WebDriver server on port: '2648' on host: ''
+I 2016-09-17 16:46:18:797 IEServer.cpp(32) Driver version: 2.53.1.0 (32-bit)
+I 2016-09-17 16:46:21:197 IECommandExecutor.cpp(678) Persistent hovering set to: 1
+I 2016-09-17 16:46:21:263 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:22:144 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:22:218 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:46:22:253 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:27:681 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:27:749 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:46:27:780 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+W 2016-09-17 16:46:27:833 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+W 2016-09-17 16:46:27:847 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+I 2016-09-17 16:46:31:279 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:31:345 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:46:31:367 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+W 2016-09-17 16:46:31:417 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+W 2016-09-17 16:46:31:430 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+I 2016-09-17 16:46:34:950 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:35:017 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:46:35:042 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+W 2016-09-17 16:46:35:139 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+W 2016-09-17 16:46:35:152 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+W 2016-09-17 16:46:35:206 Element.cpp(822) Document containing element does not contains frames, but getting the documentElement property failed, or the doctype has thrown the browser into pre-IE6 rendering. The view port calculation may be inaccurate
+W 2016-09-17 16:46:35:218 InteractionsManager.cpp(1051) From X appears to be < 0. Rounding to 0. -1
+W 2016-09-17 16:46:35:218 InteractionsManager.cpp(1055) From Y appears to be < 0. Rounding to 0. -1
+I 2016-09-17 16:46:41:530 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:41:879 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:42:208 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:42:536 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:42:864 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:43:193 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:43:521 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:43:848 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:44:176 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:44:505 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:44:833 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:45:161 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:45:490 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:45:819 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:46:146 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:46:473 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:46:803 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:47:131 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:47:458 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:47:787 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:48:114 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:48:442 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:48:771 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:49:098 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:49:427 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:49:755 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:50:083 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:50:411 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:50:740 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:51:067 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:51:396 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:51:723 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:52:051 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:52:380 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:52:708 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:53:036 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:53:364 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:53:692 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:54:022 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:54:348 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:54:676 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:55:005 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:55:334 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:55:661 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:55:989 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:56:317 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:56:647 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:56:973 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:57:301 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:57:629 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:57:964 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:58:287 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:58:614 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:58:942 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:59:271 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:59:598 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:46:59:926 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:00:256 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:00:583 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:00:911 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:01:239 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:01:567 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:01:896 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:02:223 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:02:553 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:02:879 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:03:208 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:03:537 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:03:865 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:04:192 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:04:521 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:04:848 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:05:176 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:05:505 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:05:835 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:06:161 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:06:489 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:06:817 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:07:146 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:07:473 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:07:801 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:08:130 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:08:458 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:08:786 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:09:114 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:09:442 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:09:771 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:10:098 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:10:428 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:10:755 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:11:083 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:11:411 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:11:753 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:12:085 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:12:411 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:12:740 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:13:067 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:13:396 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:13:723 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:14:051 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:14:381 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:14:708 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:15:036 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:15:365 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:15:693 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:16:021 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:16:364 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:16:692 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:17:021 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:17:348 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:17:676 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:18:005 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:18:333 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:18:662 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:18:990 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:19:318 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:19:646 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:19:973 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:20:302 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:20:630 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:20:958 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:21:286 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:21:614 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:21:944 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:22:271 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:22:600 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:22:926 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:23:255 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:23:583 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:23:910 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:24:238 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:24:567 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:24:896 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:25:223 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:25:552 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:25:880 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:26:210 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:26:536 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:26:864 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:27:192 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:27:521 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:27:848 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:28:178 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:28:505 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:28:834 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:29:161 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:29:489 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:29:817 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:30:161 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:30:504 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:30:849 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:31:176 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:31:536 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:31:879 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:32:223 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:32:551 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:32:880 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:33:208 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:33:537 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:33:864 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:34:193 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:34:567 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:34:897 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:35:223 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:35:551 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:35:942 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:36:271 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:36:636 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:37:084 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:37:411 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:37:739 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:38:067 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:38:397 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:38:723 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:39:052 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:39:379 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:39:724 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:40:098 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:40:426 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:40:754 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:41:083 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:41:411 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:47:43:042 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:47:43:074 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:48:22:062 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:48:34:244 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:48:34:319 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:48:34:348 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 16:48:34:446 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:49:29:695 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:51:49:903 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:51:50:577 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:51:51:246 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:51:51:712 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:51:52:172 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:51:52:841 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:09:776 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:10:389 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:10:976 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:11:773 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:12:359 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:23:125 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:24:057 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:26:617 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:27:605 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:28:308 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:28:912 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:29:401 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:30:085 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:30:563 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:31:056 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:31:538 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:32:061 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:41:728 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:42:425 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:42:524 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:42:681 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:42:770 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:52:57:236 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:53:08:015 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:53:08:213 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:53:13:418 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:53:13:537 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:53:13:691 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:53:13:796 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:53:14:096 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:53:14:174 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:53:14:609 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:53:33:539 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 16:53:34:445 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:37:538 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:37:847 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:38:074 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:38:204 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:41:441 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:45:538 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:45:648 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:45:813 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:45:886 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:55:275 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:56:167 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:56:261 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:56:464 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:56:569 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:59:746 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:01:59:840 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:03:212 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:03:352 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:06:820 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:10:529 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:14:224 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:18:068 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:19:018 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+W 2016-09-17 17:02:19:101 Element.cpp(223) Element is not displayed
+W 2016-09-17 17:02:19:101 InputManager.cpp(443) Element::CalculateClickPoint() returned an error code indicating the element is not reachable.
+W 2016-09-17 17:02:19:101 response.cc(77) Error response has status code 11 and message 'Cannot click on element' message
+I 2016-09-17 17:02:19:961 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:20:057 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:20:079 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:20:181 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:21:078 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:21:182 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:21:211 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:21:320 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:22:182 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:22:276 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:22:309 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:22:428 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:23:213 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:23:314 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:23:333 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:23:458 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:24:307 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:24:421 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:24:439 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:24:544 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:25:375 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:25:501 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:25:518 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:25:626 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:32:439 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:32:547 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:02:32:572 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:02:32:690 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+W 2016-09-17 17:03:39:969 response.cc(77) Error response has status code 7 and message 'Unable to find element with xpath == .//*[@id='dgReport']/tbody/tr[2]/td[3]/div' message
+I 2016-09-17 17:03:40:051 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:03:43:446 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:03:43:523 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:03:43:606 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+I 2016-09-17 17:03:43:633 Browser.cpp(124) No child frame focus. Focus is on top-level frame
+I 2016-09-17 17:03:43:742 VariantUtilities.cpp(179) Unknown type of dispatch is found in result, assuming IHTMLElement
+W 2016-09-17 17:03:43:906 Element.cpp(892) Y coordinate is out of element area
